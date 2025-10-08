@@ -1,0 +1,1380 @@
+ID,V201549x,V202022,V201200,V201231x,V201452,V201507x,V201600,V202406,Prompt,Response
+fake_0,4,1,4,3,2,36,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 36 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_1,4,1,3,2,2,55,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 55 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_2,4,-6,4,5,2,60,1,3,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 60 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",2
+fake_3,4,1,4,3,2,19,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 19 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_4,4,1,2,3,2,69,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 69 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_5,4,1,3,3,1,20,2,-9,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I attend church. I am 20 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_6,4,1,4,5,1,43,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 43 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_7,4,1,6,3,2,35,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 35 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_8,4,1,99,5,1,43,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 43 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_9,4,1,99,1,1,75,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 75 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_10,4,2,2,1,2,38,2,1,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 38 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_11,4,2,2,3,1,49,1,3,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 49 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_12,4,-7,2,3,2,59,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 59 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_13,4,1,5,2,1,59,2,-9,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 59 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_14,4,2,2,7,2,27,2,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 27 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_15,4,1,4,6,2,54,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I do not attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_16,4,1,3,4,2,63,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent. I do not attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_17,4,1,2,1,1,-9,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_18,4,1,6,5,2,73,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 73 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_19,4,1,2,2,1,49,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 49 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_20,4,1,99,1,2,32,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am 32 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_21,4,1,5,1,2,67,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I do not attend church. I am 67 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_22,4,1,3,1,1,38,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 38 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_23,4,-6,99,2,2,26,2,2,"Today is November 3, 2020. Racially, I am native American. Politically, I am a weak Democrat. I do not attend church. I am 26 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_24,4,1,3,2,2,38,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_25,4,1,2,2,1,41,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 41 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_26,4,1,2,4,2,36,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 36 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_27,4,1,5,3,2,36,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 36 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_28,4,1,5,2,1,36,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 36 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_29,4,1,4,3,2,-9,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_30,4,1,5,2,1,37,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_31,4,1,99,1,1,44,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 44 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_32,4,1,3,4,2,37,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent. I do not attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_33,4,1,3,2,2,76,2,-7,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 76 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_34,4,1,6,7,1,69,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I attend church. I am 69 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_35,4,1,3,3,2,45,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 45 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_36,4,2,4,1,2,46,1,4,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 46 years old. I am a man. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_37,4,2,99,3,1,50,2,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I attend church. I am 50 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_38,4,2,99,3,1,28,1,3,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I attend church. I am 28 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_39,4,1,99,2,2,77,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a weak Democrat. I do not attend church. I am 77 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_40,4,1,3,7,2,36,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 36 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_41,4,2,2,3,1,24,1,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 24 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_42,4,1,2,2,2,63,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I do not attend church. I am 63 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",My
+fake_43,4,-6,4,6,2,52,1,4,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am moderate. Politically, I am a weak Republican. I do not attend church. I am 52 years old. I am a man. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_44,4,1,4,3,1,58,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 58 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_45,4,1,4,3,1,75,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 75 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_46,4,-6,5,1,1,64,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_47,4,1,5,2,1,38,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_48,4,1,3,5,2,35,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Republican. I do not attend church. I am 35 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_49,4,1,4,2,2,60,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I do not attend church. I am 60 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_50,4,1,3,6,2,36,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Republican. I do not attend church. I am 36 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_51,4,-6,6,7,2,20,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am conservative. Politically, I am a strong Republican. I do not attend church. I am 20 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_52,4,1,2,1,1,27,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 27 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_53,4,1,3,4,2,46,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent. I do not attend church. I am 46 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_54,4,1,99,5,1,20,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 20 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_55,4,1,99,7,2,27,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong Republican. I do not attend church. I am 27 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_56,4,1,2,7,2,50,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 50 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_57,4,1,4,2,2,50,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I do not attend church. I am 50 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_58,4,-6,3,2,2,-9,1,3,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_59,4,1,2,1,1,67,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 67 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_60,4,1,5,2,1,70,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 70 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_61,4,1,6,2,2,69,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Democrat. I do not attend church. I am 69 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_62,4,-6,99,1,1,63,1,2,"Today is November 3, 2020. Racially, I am native American. Politically, I am a strong democrat. I attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_63,4,1,2,1,2,29,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 29 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_64,4,1,99,2,2,72,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a weak Democrat. I do not attend church. I am 72 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_65,4,1,3,2,1,41,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I attend church. I am 41 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_66,4,1,4,5,2,60,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 60 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_67,4,1,4,1,2,41,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 41 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_68,4,1,6,3,2,45,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 45 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_69,4,1,5,2,2,73,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I do not attend church. I am 73 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_70,4,1,5,2,2,28,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I do not attend church. I am 28 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_71,4,1,6,2,2,51,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Democrat. I do not attend church. I am 51 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_72,4,1,2,3,1,63,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_73,4,1,3,7,2,43,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 43 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_74,4,1,6,6,1,18,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Republican. I attend church. I am 18 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_75,4,1,6,2,1,-9,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Democrat. I attend church. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_76,4,1,99,5,2,66,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I do not attend church. I am 66 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_77,4,1,3,2,2,64,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_78,4,-6,99,5,2,54,1,2,"Today is November 3, 2020. Racially, I am native American. Politically, I am an independent who leans Republican. I do not attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_79,4,-6,2,1,2,58,2,4,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 58 years old. I am a woman. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_80,4,-6,3,4,2,30,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly liberal. Politically, I am an independent. I do not attend church. I am 30 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_81,4,1,2,6,1,-9,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I attend church. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_82,4,1,99,5,2,44,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I do not attend church. I am 44 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_83,4,1,3,7,2,33,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 33 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_84,4,1,3,7,2,50,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 50 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_85,4,1,2,2,1,80,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 80 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_86,4,1,3,6,2,49,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Republican. I do not attend church. I am 49 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_87,4,1,3,1,2,28,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am 28 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_88,4,1,4,3,2,18,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 18 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_89,4,1,4,4,1,63,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 63 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_90,4,1,1,2,2,26,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a weak Democrat. I do not attend church. I am 26 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_91,4,1,5,3,1,32,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I attend church. I am 32 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_92,4,1,4,6,2,35,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I do not attend church. I am 35 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_93,4,2,5,6,2,32,1,4,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I do not attend church. I am 32 years old. I am a man. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",3
+fake_94,4,2,4,4,2,30,2,1,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 30 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_95,4,-6,3,4,2,26,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly liberal. Politically, I am an independent. I do not attend church. I am 26 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_96,4,2,3,7,2,51,2,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 51 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_97,4,1,2,6,2,63,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I do not attend church. I am 63 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_98,4,1,5,4,1,36,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 36 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_99,4,1,4,4,2,36,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 36 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_100,4,1,3,5,2,78,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Republican. I do not attend church. I am 78 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_101,4,1,3,2,2,73,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 73 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_102,4,1,3,1,-9,32,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I am 32 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_103,4,1,4,4,1,68,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 68 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_104,4,1,5,5,1,33,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I attend church. I am 33 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_105,4,1,2,1,2,18,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 18 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_106,4,1,99,4,1,80,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 80 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_107,4,1,4,2,1,35,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 35 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_108,4,1,4,2,2,66,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I do not attend church. I am 66 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_109,4,1,4,4,2,31,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 31 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_110,4,1,99,5,2,20,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I do not attend church. I am 20 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_111,4,1,6,1,2,38,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 38 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_112,4,1,2,1,2,-9,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_113,4,1,99,5,2,-9,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I do not attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_114,4,1,2,2,1,36,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 36 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_115,4,-7,3,7,2,46,1,-9,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 46 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_116,4,1,99,4,1,36,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 36 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_117,4,1,2,1,1,75,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 75 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_118,4,1,99,6,1,60,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 60 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_119,4,1,2,2,2,49,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I do not attend church. I am 49 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_120,4,1,2,1,2,37,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 37 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_121,4,-6,2,2,1,72,2,4,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 72 years old. I am a woman. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",2
+fake_122,4,2,5,1,1,19,1,-5,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 19 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_123,4,1,6,4,1,27,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent. I attend church. I am 27 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_124,4,1,4,3,1,52,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 52 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_125,4,1,2,7,1,35,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I attend church. I am 35 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_126,4,2,6,6,2,30,2,-6,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am a weak Republican. I do not attend church. I am 30 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",2
+fake_127,4,1,5,6,2,54,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I do not attend church. I am 54 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_128,4,1,6,5,1,32,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I attend church. I am 32 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_129,4,1,6,2,1,48,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Democrat. I attend church. I am 48 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_130,4,2,3,3,1,57,2,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I attend church. I am 57 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_131,4,1,2,6,2,75,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I do not attend church. I am 75 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",My
+fake_132,4,1,3,1,2,47,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am 47 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_133,4,1,4,6,1,37,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_134,4,1,5,4,1,28,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 28 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_135,4,1,5,4,1,20,1,4,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 20 years old. I am a man. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_136,4,1,6,2,1,43,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Democrat. I attend church. I am 43 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_137,4,1,2,1,1,23,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 23 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_138,4,1,3,2,2,-9,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_139,4,1,5,5,1,-9,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_140,4,1,4,1,2,77,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 77 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_141,4,1,99,6,1,36,2,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 36 years old. I am a woman. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_142,4,1,5,1,1,38,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_143,4,2,5,1,2,67,2,-6,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I do not attend church. I am 67 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_144,4,1,99,4,2,74,2,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 74 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_145,4,1,99,1,1,80,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 80 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_146,4,1,99,1,2,18,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am 18 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_147,4,2,4,6,1,44,1,4,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 44 years old. I am a man. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",3
+fake_148,4,1,99,1,1,30,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 30 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_149,4,1,2,6,1,41,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I attend church. I am 41 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_150,4,1,2,4,2,24,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 24 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_151,4,1,6,1,2,-9,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_152,4,1,2,3,2,35,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 35 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_153,4,1,2,6,1,-9,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_154,4,2,99,1,2,18,2,3,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Politically, I am a strong democrat. I do not attend church. I am 18 years old. I am a woman. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_155,4,1,4,1,1,26,1,-9,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 26 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_156,4,-6,99,2,1,51,2,-7,"Today is November 3, 2020. Racially, I am native American. Politically, I am a weak Democrat. I attend church. I am 51 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_157,4,-6,3,3,1,64,2,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I attend church. I am 64 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_158,4,1,2,3,2,19,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 19 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_159,4,-6,2,1,2,46,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 46 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_160,4,1,6,5,2,51,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 51 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_161,4,1,3,2,1,68,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I attend church. I am 68 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_162,4,1,4,1,1,61,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 61 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_163,4,1,2,3,1,24,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 24 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_164,4,2,2,7,2,33,1,1,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 33 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_165,4,1,4,3,2,37,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_166,4,1,5,3,2,28,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 28 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_167,4,1,3,1,1,69,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 69 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_168,4,1,6,1,2,69,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 69 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_169,4,2,5,7,2,57,1,3,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a strong Republican. I do not attend church. I am 57 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_170,4,1,1,7,1,19,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a strong Republican. I attend church. I am 19 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_171,4,1,2,1,1,59,2,4,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 59 years old. I am a woman. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_172,4,1,4,1,2,60,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 60 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_173,4,-6,4,1,1,-9,1,2,"Today is November 3, 2020. Racially, I am native American. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_174,4,1,2,2,2,30,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I do not attend church. I am 30 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_175,4,1,4,2,1,50,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 50 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_176,4,1,3,4,1,80,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent. I attend church. I am 80 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_177,4,1,2,2,1,37,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Democrat. I attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_178,4,2,4,3,1,38,2,2,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 38 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_179,4,1,4,1,1,66,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 66 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_180,4,1,4,4,2,49,1,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 49 years old. I am a man.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_181,4,1,5,1,2,60,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I do not attend church. I am 60 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_182,4,2,99,2,1,32,2,4,"Today is November 3, 2020. Racially, I am native American. I never discuss politics with my family or friends. Politically, I am a weak Democrat. I attend church. I am 32 years old. I am a woman. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",3
+fake_183,4,1,4,2,1,31,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 31 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_184,4,1,4,6,1,70,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 70 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_185,4,1,2,3,2,38,2,4,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 38 years old. I am a woman. I am not at all interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_186,4,1,2,5,1,59,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Republican. I attend church. I am 59 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_187,4,1,4,4,2,30,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 30 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_188,4,1,4,2,1,25,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 25 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_189,4,1,1,1,1,68,2,-7,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a strong democrat. I attend church. I am 68 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_190,4,1,4,1,2,47,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 47 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_191,4,1,4,1,2,32,2,-6,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 32 years old. I am a woman.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_192,4,1,2,6,1,31,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I attend church. I am 31 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_193,4,1,99,4,2,39,1,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 39 years old. I am a man. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_194,4,1,2,3,1,37,1,1,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 37 years old. I am a man. I am very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_195,4,1,2,3,2,28,1,3,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 28 years old. I am a man. I am not very interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1
+fake_196,4,1,2,4,2,43,2,2,"Today is November 3, 2020. Racially, I am native American. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 43 years old. I am a woman. I am somewhat interested in politics.. Question: Do you think the federal government should be doing more about the opioid drug addiction issue, should be doing less, or is it currently doing the right amount?
+
+Answer choices:
+1. Should be doing more 2. Should be doing less 3. Is doing the right amount
+
+My answer is
+",1

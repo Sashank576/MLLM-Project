@@ -1,0 +1,807 @@
+ID,V201549x,V202022,V201200,V201231x,V201452,V201507x,V201600,V202406,Prompt,Response
+fake_0,5,1,3,4,1,71,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent. I attend church. I am 71 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",My
+fake_1,5,1,4,1,1,77,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 77 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_2,5,1,5,4,2,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_3,5,1,5,5,2,73,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 73 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_4,5,1,4,1,2,72,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 72 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_5,5,1,2,1,2,68,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 68 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_6,5,1,99,4,1,63,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 63 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",1
+fake_7,5,-6,4,5,1,50,1,4,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 50 years old. I am a man. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_8,5,1,99,6,2,80,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I do not attend church. I am 80 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_9,5,1,3,2,1,46,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I attend church. I am 46 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_10,5,1,99,4,1,31,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 31 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_11,5,1,7,3,2,19,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 19 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_12,5,1,99,4,1,43,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 43 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_13,5,1,4,5,1,78,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 78 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_14,5,2,4,4,2,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_15,5,1,1,2,1,35,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a weak Democrat. I attend church. I am 35 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_16,5,1,6,3,1,28,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I attend church. I am 28 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_17,5,1,6,1,2,49,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 49 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_18,5,2,2,5,1,38,2,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am liberal. Politically, I am an independent who leans Republican. I attend church. I am 38 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_19,5,1,4,4,2,56,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 56 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_20,5,1,7,7,2,66,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am a strong Republican. I do not attend church. I am 66 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",My
+fake_21,5,1,5,4,2,60,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 60 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_22,5,2,1,7,1,56,1,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am extremely liberal. Politically, I am a strong Republican. I attend church. I am 56 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_23,5,1,4,7,1,43,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 43 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_24,5,1,4,7,1,66,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 66 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_25,5,-7,99,5,2,72,-9,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent who leans Republican. I do not attend church. I am 72 years old. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_26,5,-6,5,4,2,74,1,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 74 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",My
+fake_27,5,1,99,4,1,60,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 60 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_28,5,1,3,3,2,66,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 66 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_29,5,1,4,4,2,40,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 40 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_30,5,1,4,1,1,41,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 41 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_31,5,1,5,2,1,44,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I attend church. I am 44 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_32,5,1,4,1,2,63,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_33,5,2,4,6,1,37,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 37 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_34,5,-6,4,4,2,64,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_35,5,2,3,4,1,65,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am an independent. I attend church. I am 65 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_36,5,1,4,4,1,61,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 61 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_37,5,1,3,1,1,58,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 58 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_38,5,-6,4,1,1,-9,1,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_39,5,1,2,6,2,27,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I do not attend church. I am 27 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_40,5,1,6,1,2,30,-9,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 30 years old. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_41,5,1,6,1,1,48,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I attend church. I am 48 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_42,5,1,4,1,2,43,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 43 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_43,5,1,99,1,2,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_44,5,1,99,1,1,38,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 38 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_45,5,1,4,-9,2,33,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. I do not attend church. I am 33 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_46,5,1,6,5,2,37,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 37 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_47,5,1,4,4,1,54,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 54 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_48,5,1,99,1,2,41,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am 41 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_49,5,2,99,3,2,37,1,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 37 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_50,5,1,4,3,2,28,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 28 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_51,5,1,6,-9,2,63,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. I do not attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_52,5,1,99,6,1,80,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 80 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_53,5,1,1,4,1,27,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am an independent. I attend church. I am 27 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_54,5,1,4,5,1,23,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 23 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_55,5,1,6,4,1,64,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent. I attend church. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_56,5,1,3,1,1,45,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 45 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_57,5,1,5,5,1,41,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I attend church. I am 41 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_58,5,1,6,5,1,-9,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I attend church. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_59,5,1,4,5,2,40,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 40 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_60,5,1,4,4,2,42,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 42 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_61,5,1,2,4,1,63,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_62,5,1,5,5,2,43,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 43 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_63,5,1,5,6,1,56,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I attend church. I am 56 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_64,5,1,2,7,2,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_65,5,1,99,3,2,56,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 56 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_66,5,1,4,4,2,53,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 53 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_67,5,1,4,4,1,51,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 51 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_68,5,1,4,1,1,51,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 51 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_69,5,2,5,2,2,64,2,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I do not attend church. I am 64 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_70,5,1,4,3,1,61,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 61 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_71,5,1,6,1,2,53,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 53 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_72,5,1,4,5,1,18,1,-7,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 18 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_73,5,1,99,4,2,75,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 75 years old. I am a man. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_74,5,1,2,5,1,68,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Republican. I attend church. I am 68 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_75,5,1,6,1,2,72,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 72 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",Answer
+fake_76,5,2,4,7,1,30,1,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 30 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_77,5,1,99,4,1,40,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 40 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_78,5,1,6,3,2,30,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 30 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+","
+"
+fake_79,5,1,1,3,2,69,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 69 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_80,5,1,99,1,1,54,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 54 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_81,5,1,99,1,2,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_82,5,1,4,3,2,42,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 42 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_83,5,1,6,1,-9,64,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I am 64 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",My
+fake_84,5,1,99,4,2,51,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 51 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_85,5,1,3,1,1,57,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 57 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_86,5,-6,7,7,1,53,2,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely conservative. Politically, I am a strong Republican. I attend church. I am 53 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_87,5,1,99,1,1,19,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 19 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_88,5,1,99,4,2,46,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 46 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_89,5,1,4,1,2,43,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 43 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",My
+fake_90,5,1,99,1,2,78,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I do not attend church. I am 78 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_91,5,1,99,4,1,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_92,5,1,99,3,2,23,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 23 years old. I am a man. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_93,5,1,4,3,1,73,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 73 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_94,5,1,4,1,1,62,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 62 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_95,5,1,5,5,2,80,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 80 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_96,5,1,5,4,2,42,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 42 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_97,5,1,4,5,-9,64,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_98,5,1,5,4,2,41,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 41 years old. I am a man. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_99,5,1,2,1,2,23,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 23 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_100,5,1,6,5,2,64,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 64 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_101,5,1,6,1,1,51,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I attend church. I am 51 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",4
+fake_102,5,2,6,4,2,19,2,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am an independent. I do not attend church. I am 19 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_103,5,2,4,7,1,46,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 46 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_104,5,-6,4,4,1,60,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 60 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_105,5,1,7,4,2,45,-9,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I do not attend church. I am 45 years old. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_106,5,-6,4,1,1,55,1,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 55 years old. I am a man. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_107,5,1,2,4,2,35,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 35 years old. I am a man.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",5
+fake_108,5,1,6,7,1,73,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I attend church. I am 73 years old. I am a woman. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_109,5,1,4,7,1,23,2,-7,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 23 years old. I am a woman.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_110,5,1,7,4,2,20,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I do not attend church. I am 20 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",2
+fake_111,5,-6,99,7,2,40,1,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am a strong Republican. I do not attend church. I am 40 years old. I am a man. I am somewhat interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_112,5,1,4,-9,2,69,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. I do not attend church. I am 69 years old. I am a woman. I am not at all interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",Answer
+fake_113,5,1,4,6,2,25,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I do not attend church. I am 25 years old. I am a woman. I am very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3
+fake_114,5,1,5,5,2,34,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 34 years old. I am a woman. I am not very interested in politics.. Question: How much, if at all, do you think climate change is currently affecting severe weather events or temperature patterns in the United States?
+
+Answer choices:
+1. Not at all 2. A little 3. A moderate amount 4. A lot 5. A great deal
+
+My answer is
+",3

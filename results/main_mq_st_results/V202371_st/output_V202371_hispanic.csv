@@ -1,0 +1,806 @@
+ID,V201549x,V202022,V201200,V201231x,V201452,V201507x,V201600,V202406,Prompt,Response
+fake_0,5,1,99,5,1,35,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 35 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_1,5,1,99,4,1,63,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 63 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_2,5,1,4,1,1,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_3,5,-6,99,4,1,60,2,3,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent. I attend church. I am 60 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_4,5,1,99,3,2,67,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 67 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_5,5,2,5,7,2,55,2,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a strong Republican. I do not attend church. I am 55 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_6,5,1,7,4,1,68,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I attend church. I am 68 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",It
+fake_7,5,1,99,3,2,77,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 77 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_8,5,1,99,4,2,80,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 80 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_9,5,1,4,1,1,70,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 70 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_10,5,1,5,3,2,64,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 64 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_11,5,1,4,2,1,63,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 63 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_12,5,1,2,6,1,57,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a weak Republican. I attend church. I am 57 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_13,5,1,5,3,2,43,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 43 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_14,5,1,4,4,1,38,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 38 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_15,5,1,4,5,1,50,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 50 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_16,5,-6,4,3,2,34,2,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 34 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_17,5,2,99,1,1,57,1,4,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am a strong democrat. I attend church. I am 57 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_18,5,1,3,5,2,78,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Republican. I do not attend church. I am 78 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_19,5,-6,99,1,1,23,2,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am a strong democrat. I attend church. I am 23 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_20,5,1,4,6,1,54,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_21,5,-6,4,1,2,63,1,-6,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 63 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_22,5,-6,99,3,1,53,2,3,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent who leans Democratic. I attend church. I am 53 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_23,5,2,3,1,1,63,1,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 63 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_24,5,1,4,4,2,51,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 51 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_25,5,1,99,3,1,68,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I attend church. I am 68 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_26,5,2,6,7,1,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am a strong Republican. I attend church. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_27,5,1,7,4,1,66,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I attend church. I am 66 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_28,5,1,4,4,2,56,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 56 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_29,5,-6,2,4,2,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_30,5,1,4,4,1,18,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 18 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_31,5,-6,7,7,1,41,1,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely conservative. Politically, I am a strong Republican. I attend church. I am 41 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_32,5,1,6,1,2,74,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 74 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",Better
+fake_33,5,1,4,2,1,43,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 43 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_34,5,1,2,1,2,-9,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_35,5,1,4,1,2,73,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 73 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_36,5,1,4,4,2,50,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 50 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_37,5,1,4,4,1,73,-9,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 73 years old. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_38,5,1,5,4,2,34,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 34 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",My
+fake_39,5,1,4,4,1,43,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 43 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_40,5,1,4,3,2,53,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 53 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_41,5,1,1,7,1,80,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a strong Republican. I attend church. I am 80 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_42,5,1,4,1,2,-9,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_43,5,1,99,4,1,33,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 33 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_44,5,1,5,4,1,28,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 28 years old. I am a woman. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_45,5,1,5,4,1,35,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 35 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_46,5,1,2,3,1,18,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 18 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_47,5,1,99,6,1,53,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 53 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_48,5,2,4,6,1,33,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 33 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_49,5,1,1,5,2,37,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am an independent who leans Republican. I do not attend church. I am 37 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_50,5,1,5,6,2,42,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I do not attend church. I am 42 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_51,5,1,4,2,1,36,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 36 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_52,5,1,4,1,1,40,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 40 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_53,5,1,5,1,1,35,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 35 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_54,5,1,4,3,1,61,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 61 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_55,5,1,2,7,2,57,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 57 years old. I am a woman. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_56,5,1,4,4,-9,18,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I am 18 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_57,5,-7,7,2,2,43,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely conservative. Politically, I am a weak Democrat. I do not attend church. I am 43 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_58,5,-6,99,1,2,56,2,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am a strong democrat. I do not attend church. I am 56 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_59,5,1,99,5,2,69,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I do not attend church. I am 69 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_60,5,1,3,1,2,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_61,5,1,4,6,1,78,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am 78 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_62,5,1,99,4,2,78,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 78 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",Better
+fake_63,5,1,99,5,1,25,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 25 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_64,5,1,4,1,1,57,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 57 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_65,5,1,6,6,2,63,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a weak Republican. I do not attend church. I am 63 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_66,5,1,4,4,1,80,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 80 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_67,5,2,4,4,1,42,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 42 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_68,5,2,99,3,2,69,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 69 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_69,5,2,4,1,1,80,1,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 80 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_70,5,1,4,2,1,44,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am 44 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_71,5,1,4,7,2,30,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I do not attend church. I am 30 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_72,5,1,4,7,1,36,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 36 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_73,5,1,2,1,1,63,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 63 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_74,5,2,99,4,1,42,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent. I attend church. I am 42 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_75,5,1,4,5,2,30,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 30 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_76,5,1,2,4,1,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_77,5,1,4,7,2,65,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I do not attend church. I am 65 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_78,5,-6,4,1,1,56,2,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 56 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_79,5,1,6,5,1,64,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I attend church. I am 64 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_80,5,1,99,2,1,64,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Democrat. I attend church. I am 64 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_81,5,1,2,7,2,50,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 50 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_82,5,1,7,1,2,54,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am a strong democrat. I do not attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_83,5,1,4,1,1,35,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 35 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_84,5,1,4,4,2,-9,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_85,5,1,4,4,1,68,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 68 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_86,5,2,6,1,1,56,1,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am a strong democrat. I attend church. I am 56 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_87,5,2,3,1,2,19,1,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am 19 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_88,5,1,7,3,1,63,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent who leans Democratic. I attend church. I am 63 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_89,5,1,2,3,1,75,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent who leans Democratic. I attend church. I am 75 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",Better
+fake_90,5,2,99,4,2,42,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent. I do not attend church. I am 42 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_91,5,1,1,4,1,64,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am an independent. I attend church. I am 64 years old. I am a woman. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_92,5,1,99,3,2,56,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Democratic. I do not attend church. I am 56 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_93,5,1,4,1,2,60,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 60 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_94,5,-6,99,4,1,53,2,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent. I attend church. I am 53 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_95,5,-6,6,3,1,58,1,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I attend church. I am 58 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_96,5,2,4,7,1,48,1,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 48 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_97,5,2,4,3,1,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_98,5,-6,4,1,2,19,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 19 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_99,5,-6,1,6,1,53,2,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely liberal. Politically, I am a weak Republican. I attend church. I am 53 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_100,5,1,4,4,1,69,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 69 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_101,5,2,5,4,1,46,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 46 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_102,5,1,1,1,1,43,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a strong democrat. I attend church. I am 43 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_103,5,1,6,5,-9,-9,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent who leans Republican. I am a woman. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_104,5,1,4,5,2,56,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 56 years old. I am a man. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_105,5,2,4,4,1,54,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_106,5,1,4,4,1,69,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 69 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_107,5,1,99,1,1,42,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 42 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_108,5,1,4,1,2,34,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 34 years old. I am a woman. I am somewhat interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_109,5,-7,3,1,1,66,2,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I attend church. I am 66 years old. I am a woman. I am not very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_110,5,1,5,3,1,30,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Democratic. I attend church. I am 30 years old. I am a man. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_111,5,1,99,2,1,30,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Democrat. I attend church. I am 30 years old. I am a woman. I am very interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_112,5,1,99,6,1,35,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 35 years old. I am a man.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1
+fake_113,5,2,99,4,2,56,1,4,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent. I do not attend church. I am 56 years old. I am a man. I am not at all interested in politics.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",3
+fake_114,5,-6,99,1,1,63,2,-6,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am a strong democrat. I attend church. I am 63 years old. I am a woman.. Question: Does the increasing number of people of many different races and ethnic groups in the United States make this country a better place to live, a worse place to live, or does it make no difference?
+
+Answer choices:
+1. Better 2. Worse 3. Makes no difference
+
+My answer is
+",1

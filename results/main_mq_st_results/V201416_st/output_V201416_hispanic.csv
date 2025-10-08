@@ -1,0 +1,806 @@
+ID,V201549x,V202022,V201200,V201231x,V201452,V201507x,V201600,V202406,Prompt,Response
+fake_0,5,1,99,1,1,57,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong democrat. I attend church. I am 57 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_1,5,2,5,1,1,63,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 63 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_2,5,1,4,4,1,54,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 54 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_3,5,1,4,4,2,38,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_4,5,1,3,1,2,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_5,5,1,5,1,1,37,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_6,5,1,6,4,2,45,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am an independent. I do not attend church. I am 45 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_7,5,-6,7,5,1,43,1,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely conservative. Politically, I am an independent who leans Republican. I attend church. I am 43 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_8,5,1,2,1,1,33,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I attend church. I am 33 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_9,5,1,99,4,2,66,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 66 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_10,5,1,99,5,1,41,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 41 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_11,5,1,2,4,2,68,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 68 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_12,5,1,99,5,1,74,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent who leans Republican. I attend church. I am 74 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_13,5,1,5,4,2,66,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 66 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_14,5,1,5,4,1,19,-9,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 19 years old. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_15,5,1,99,4,2,57,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 57 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_16,5,1,4,1,1,28,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 28 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_17,5,1,4,4,2,34,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 34 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_18,5,1,5,1,2,35,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I do not attend church. I am 35 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_19,5,1,99,4,2,37,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 37 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_20,5,1,4,4,1,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_21,5,1,5,6,2,67,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I do not attend church. I am 67 years old. I am a man. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_22,5,1,5,4,1,68,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 68 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_23,5,1,4,1,2,38,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_24,5,1,1,4,1,45,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am an independent. I attend church. I am 45 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_25,5,1,7,4,2,64,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I do not attend church. I am 64 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_26,5,1,2,7,2,65,-9,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong Republican. I do not attend church. I am 65 years old. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_27,5,1,4,6,1,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I attend church. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_28,5,1,99,4,1,-9,-9,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_29,5,2,4,5,1,53,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 53 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_30,5,1,5,5,1,64,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I attend church. I am 64 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_31,5,1,4,1,1,53,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 53 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_32,5,1,4,2,1,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I attend church. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_33,5,1,6,1,2,40,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 40 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_34,5,1,6,1,2,67,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 67 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_35,5,1,2,4,1,45,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I attend church. I am 45 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_36,5,1,4,6,2,40,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Republican. I do not attend church. I am 40 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_37,5,1,99,7,2,45,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong Republican. I do not attend church. I am 45 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_38,5,1,99,6,2,38,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I do not attend church. I am 38 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_39,5,1,3,1,2,71,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am 71 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_40,5,1,7,6,1,51,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am a weak Republican. I attend church. I am 51 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_41,5,1,7,3,1,63,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent who leans Democratic. I attend church. I am 63 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_42,5,1,2,4,2,50,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I do not attend church. I am 50 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_43,5,1,4,4,1,42,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 42 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_44,5,-6,4,1,2,37,-9,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I do not attend church. I am 37 years old. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_45,5,-7,3,2,2,72,1,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I do not attend church. I am 72 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_46,5,2,99,3,1,54,2,3,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I attend church. I am 54 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_47,5,-6,4,4,2,23,2,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am 23 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_48,5,1,4,3,2,42,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I do not attend church. I am 42 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_49,5,-6,7,2,1,78,2,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am extremely conservative. Politically, I am a weak Democrat. I attend church. I am 78 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_50,5,1,1,1,1,49,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely liberal. Politically, I am a strong democrat. I attend church. I am 49 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_51,5,1,5,2,2,64,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Democrat. I do not attend church. I am 64 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_52,5,1,99,7,2,74,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a strong Republican. I do not attend church. I am 74 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_53,5,1,3,5,2,51,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Republican. I do not attend church. I am 51 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_54,5,1,4,5,2,44,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 44 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_55,5,2,6,7,2,50,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am a strong Republican. I do not attend church. I am 50 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_56,5,1,99,4,2,77,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 77 years old. I am a man. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",3
+fake_57,5,1,6,7,-9,45,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I am 45 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_58,5,1,6,7,2,43,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I do not attend church. I am 43 years old. I am a man. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_59,5,1,99,4,1,46,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 46 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_60,5,1,5,5,2,27,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent who leans Republican. I do not attend church. I am 27 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",My
+fake_61,5,1,4,7,1,60,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 60 years old. I am a woman.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_62,5,1,6,7,2,-9,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I do not attend church. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_63,5,1,3,3,2,80,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Democratic. I do not attend church. I am 80 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_64,5,1,99,4,1,35,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 35 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_65,5,-6,5,4,1,38,2,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 38 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_66,5,1,5,4,1,48,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I attend church. I am 48 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_67,5,1,4,7,2,56,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I do not attend church. I am 56 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_68,5,1,5,6,2,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a weak Republican. I do not attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_69,5,-6,99,7,1,71,1,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am a strong Republican. I attend church. I am 71 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_70,5,1,6,7,-9,63,2,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am conservative. Politically, I am a strong Republican. I am 63 years old. I am a woman.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_71,5,-6,99,5,1,53,2,2,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent who leans Republican. I attend church. I am 53 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_72,5,1,4,4,1,49,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 49 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_73,5,-6,99,4,2,64,1,3,"Today is November 3, 2020. Racially, I am hispanic. Politically, I am an independent. I do not attend church. I am 64 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_74,5,2,4,1,-9,46,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am moderate. Politically, I am a strong democrat. I am 46 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_75,5,2,99,3,1,70,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am an independent who leans Democratic. I attend church. I am 70 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_76,5,2,99,1,1,51,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Politically, I am a strong democrat. I attend church. I am 51 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_77,5,1,4,3,1,30,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Democratic. I attend church. I am 30 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_78,5,-6,4,5,1,66,2,-6,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 66 years old. I am a woman.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_79,5,1,99,4,1,51,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I attend church. I am 51 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_80,5,1,3,5,1,55,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am an independent who leans Republican. I attend church. I am 55 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_81,5,1,4,7,1,48,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I attend church. I am 48 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_82,5,1,4,7,2,20,-9,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong Republican. I do not attend church. I am 20 years old. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_83,5,1,3,7,2,37,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly liberal. Politically, I am a strong Republican. I do not attend church. I am 37 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_84,5,-6,4,1,1,43,1,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 43 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_85,5,1,4,4,1,54,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 54 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_86,5,-6,5,4,2,35,2,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 35 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_87,5,1,4,4,2,-9,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I do not attend church. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_88,5,1,2,1,2,34,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I do not attend church. I am 34 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_89,5,-6,6,1,2,51,2,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 51 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_90,5,1,4,1,1,18,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a strong democrat. I attend church. I am 18 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_91,5,1,4,5,1,69,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I attend church. I am 69 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_92,5,1,2,1,-9,44,2,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am a strong democrat. I am 44 years old. I am a woman. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_93,5,1,5,1,2,80,1,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong democrat. I do not attend church. I am 80 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_94,5,2,6,1,2,33,1,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am conservative. Politically, I am a strong democrat. I do not attend church. I am 33 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_95,5,2,3,1,2,45,1,1,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am slightly liberal. Politically, I am a strong democrat. I do not attend church. I am 45 years old. I am a man. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_96,5,2,7,4,2,37,2,2,"Today is November 3, 2020. Racially, I am hispanic. I never discuss politics with my family or friends. Ideologically, I am extremely conservative. Politically, I am an independent. I do not attend church. I am 37 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_97,5,1,4,2,2,71,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am a weak Democrat. I do not attend church. I am 71 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_98,5,1,5,4,2,58,-9,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I do not attend church. I am 58 years old. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",2
+fake_99,5,1,99,6,1,71,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Republican. I attend church. I am 71 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_100,5,-6,3,2,1,45,2,1,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am slightly liberal. Politically, I am a weak Democrat. I attend church. I am 45 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_101,5,1,2,4,1,48,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I attend church. I am 48 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_102,5,1,5,7,1,54,1,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am a strong Republican. I attend church. I am 54 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_103,5,1,4,4,1,80,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am 80 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_104,5,1,4,4,1,-9,1,4,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent. I attend church. I am a man. I am not at all interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_105,5,1,7,4,2,41,2,1,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am extremely conservative. Politically, I am an independent. I do not attend church. I am 41 years old. I am a woman. I am very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_106,5,-6,6,3,2,50,1,2,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am conservative. Politically, I am an independent who leans Democratic. I do not attend church. I am 50 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_107,5,1,99,4,2,33,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 33 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_108,5,1,5,4,-9,46,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am slightly conservative. Politically, I am an independent. I am 46 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_109,5,1,99,2,1,45,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am a weak Democrat. I attend church. I am 45 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_110,5,1,2,4,1,41,2,3,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am liberal. Politically, I am an independent. I attend church. I am 41 years old. I am a woman. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_111,5,1,99,4,2,65,1,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Politically, I am an independent. I do not attend church. I am 65 years old. I am a man. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_112,5,1,4,5,2,56,2,2,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 56 years old. I am a woman. I am somewhat interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_113,5,-6,2,2,2,71,1,3,"Today is November 3, 2020. Racially, I am hispanic. Ideologically, I am liberal. Politically, I am a weak Democrat. I do not attend church. I am 71 years old. I am a man. I am not very interested in politics.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
+fake_114,5,1,4,5,2,43,1,-6,"Today is November 3, 2020. Racially, I am hispanic. I like to discuss politics with my family and friends. Ideologically, I am moderate. Politically, I am an independent who leans Republican. I do not attend church. I am 43 years old. I am a man.. Question: Which comes closest to your view? You can just tell me the number of your choice.
+
+Answer choices:
+1. Gay and lesbian couples should be allowed to legally marry. 2. Gay and lesbian couples should be allowed to form civil unions but not legally marry. 3. There should be no legal recognition of gay or lesbian couples’ relationship.
+
+My answer is
+",1
