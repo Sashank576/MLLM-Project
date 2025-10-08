@@ -10,7 +10,7 @@ import time
 if sys.argv[1] == '2020':
     from anes2020 import *
 
-from common import *
+from newcommon import *
 
 foi_keys = fields_of_interest.keys()
 conditions = {
