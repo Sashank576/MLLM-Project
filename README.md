@@ -1,3 +1,5 @@
+TODO: Change README for new project
+
 # Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information.
 This repository contains the code for the paper "Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information." All code has been anonymized for confidentiality.
 

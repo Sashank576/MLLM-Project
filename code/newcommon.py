@@ -3,7 +3,7 @@ import time
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-
+#Snellius model path
 model_path = "/projects/2/managed_datasets/llama3/8B-Instruct"
 tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=True)
 #bf16 for faster and more stable inference, float32 if no GPU
@@ -45,7 +45,7 @@ def extract_probs(lp):
 
 
 
-#TODO: Change to local model, not use API
+#TODO: Change to local model, not use OpenAI API
 def do_query(system_prompt, user_prompt, max_tokens=2, engine=model):
     messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}]
     response = client.chat.completions.create(
@@ -55,7 +55,7 @@ def do_query(system_prompt, user_prompt, max_tokens=2, engine=model):
     )
     return response.choices[0].message.content
 
-
+#Run multiple prompts, not used from what I understand
 def run_prompts(prompts, engine=model):
     results = []
     for prompt in prompts:

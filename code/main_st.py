@@ -124,17 +124,9 @@ for column, value_sets in conditions.items():
                     result_entry = (fake_id, *fake_person.values(), full_prompt, response)
                     full_results.append(result_entry)
                     success = True  
-                except openai.APIConnectionError as e:
+                except Exception as e:
                     print("The server could not be reached")
-                    print(e.__cause__)  # an underlying Exception, likely raised within httpx.
-                except openai.RateLimitError as e:
-                    print("A 429 status code was received; we should back off a bit.")
-                except openai.APIStatusError as e:
-                    print("Another non-200-range status code was received")
-                    print(e.status_code)
-                    print(e.response)
-                except openai.OpenAIError as e:
-                    print(f"API Error: {e}")
+                    print(e)  # an underlying Exception, likely raised within httpx.
                 retries += 1  
 
             if not success:
