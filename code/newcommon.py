@@ -45,7 +45,7 @@ def extract_probs(lp):
 
 
 
-#TODO: Change to local model, not use OpenAI API
+#TODO: Change to local model, not use OpenAI API, maybe increase max tokens to 10 if model doesnt answer with single words
 def do_query(system_prompt, user_prompt, max_tokens=2, engine=model):
     messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}]
     response = client.chat.completions.create(
