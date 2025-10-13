@@ -1,4 +1,4 @@
-from common import *
+from newcommon import *
 
 SEP=','
 OUTPUT_FN = "./full_results_2016.pkl"

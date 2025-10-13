@@ -1,8 +1,6 @@
 import sys
 import pandas as pd
-import pickle
 from tqdm import tqdm
-import random
 import numpy as np
 
 if sys.argv[1] == '2012':
@@ -57,7 +55,7 @@ fake_results = []
 
 # numbers of iteration
 MAX_RETRIES = 5
-for idx in tqdm(range(len(anesdf))):
+for idx in tqdm(range(len(anesdf)), disable=True):
 
     fake_person = generate_fake_respondent(distributions)
     backstory = gen_backstory_from_fake_person(fake_person)

@@ -1,10 +1,7 @@
 import sys
 import pandas as pd
-import pickle
 from tqdm import tqdm
-import random
 import numpy as np
-import time
 
 
 if sys.argv[1] == '2012':
@@ -107,7 +104,7 @@ for column, value_sets in conditions.items():
         distributions = compute_demographic_distribution(filtered_df)
 
         MAX_RETRIES = 5
-        for idx in tqdm(range(len(filtered_df))):
+        for idx in tqdm(range(len(filtered_df)), disable=True):
 
             fake_person = generate_fake_respondent(distributions)
             backstory = gen_backstory_from_fake_person(fake_person)
