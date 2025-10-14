@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --nodes=1
 #SBATCH --gpus-per-node=1
-#SBATCH --time=01:00:00
+#SBATCH --time=14:00:00
 #SBATCH --partition=gpu_mig
 #SBATCH --reservation=terv92681
 
@@ -31,4 +31,4 @@ if [ -n "${SCRATCH:-}" ]; then
 fi
 
 mkdir -p logs
-srun python -u main.py 2020
+srun python -u main_mq.py 2020

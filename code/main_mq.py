@@ -48,6 +48,8 @@ f"""Question: {question}
 Answer choices:
 {answers}
 
+When answering, respond ONLY with a single number that corresponds to the option you choose. Do not include any additional text, punctuation or explanation.
+
 My answer is
 """
     return user_prompt
