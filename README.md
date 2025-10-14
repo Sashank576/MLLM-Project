@@ -1,15 +1,17 @@
-TODO: Change README for new project
+#TODO: Change ReadME
 
-# Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information.
-This repository contains the code for the paper "Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information." All code has been anonymized for confidentiality.
+# (Our Paper Name).
+This repository contains the code for the paper "." All code has been anonymized for confidentiality.
 
 ### Data
 Within the data folder, you'll find the ANES data from the years 2012, 2016, and 2020. Additionally, the questionnaire file `ANES_2020_multiple_questions_selected.xlsx`, used for our multiple question experiment, is also included. Each dataset can be downloaded from [American National Election Studies (ANES)](https://electionstudies.org/data-center/).
 
 ### Code
-We have reproduced and extended the silicon sampling method described in [Argyle et al., (2023)](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#article). The code has been modified and augmented based on the code used by [Argyle et al., (2023)](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#article).
+We have reproduced and modified the user prompts described in [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144). The code has been modified and augmented based on the code used by [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144).
 
-`common.py` is a script for using the OpenAI API. Insert your own OpenAI API key and select the desired model as the `engine` argument. In our experiment, `gpt-3.5-turbo-0613` was adopted.	
+`common.py` is a script for using the OpenAI API. Insert your own OpenAI API key and select the desired model as the `engine` argument. In [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144), `gpt-3.5-turbo-0613` was adopted.	
+
+`newcommon.py` is a script for using the Llama model. In our experiments, the Llama 3.1-8B-instruct model was adopted. The model and required python packages were downloaded locally in the same directory.
 
 `anes2012.py`, `anes2016.py`, and `anes2020.py` are scripts for converting demographic information of respondents from each respective ANES dataset into first-person prompts.
 
