@@ -4,7 +4,7 @@ from tqdm import tqdm
 import numpy as np
 
 if sys.argv[1] == '2020':
-    from anes2020_thirdperson import *
+    from anes2020 import *
 
 from newcommon import *
 
@@ -24,7 +24,7 @@ def generate_fake_respondent(distributions):
     return fake_respondent
 
 def gen_backstory_from_fake_person(fake_person):
-    backstory = "You value logic, objectivity, and internal consistency. When responding, you prioritize reasoning over emotion, and aim to base your answers on evidence, structure, and rational analysis. Your goal is to provide clear, well-reasoned, and intellectually honest answers that reflect careful thought. The best answer is that which reflects your reasoning process. "
+    backstory = "In this study, we are exploring how people naturally respond to various questions. To ensure meaningful results, it is important that responses reflect your genuine thoughts and feelings. There are no correct or desirable answers, and your responses will not be evaluated or judged. Please answer honestly and without concern for how your answers might be perceived. Your sincerity helps us better understand authentic human responses. "
     for k, anes_val in fake_person.items():
         if anes_val < 0:  
             continue
@@ -55,7 +55,7 @@ My answer is
     return user_prompt
 
 anesdf = pd.read_csv(ANES_FN, sep=SEP, encoding='latin-1', low_memory=False)
-anes_2020_questionnaire = pd.read_excel("./ANES_2020_multiple_questions_selected_reformulated.xlsx")
+anes_2020_questionnaire = pd.read_excel("./ANES_2020_multiple_questions_selected_reverse_v2.xlsx")
 distributions = compute_demographic_distribution(anesdf)
 time_date = "Today is November 3, 2020. "
 fake_results = []
