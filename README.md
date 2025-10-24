@@ -1,13 +1,11 @@
-#TODO: Change ReadME
-
-# (Our Paper Name).
-This repository contains the code for the paper "." All code has been anonymized for confidentiality.
+# Strategies for Mitigating Social Desirability Bias in Silicon Sampling Studies
+This repository contains the code for the paper "Strategies for Mitigating Social Desirability Bias in Silicon Sampling Studies." All code has been anonymized for confidentiality.
 
 ### Data
 Within the data folder, you'll find the ANES data from the years 2012, 2016, and 2020. Additionally, the questionnaire file `ANES_2020_multiple_questions_selected.xlsx`, used for the multiple question experiment, is also included. Each dataset can be downloaded from [American National Election Studies (ANES)](https://electionstudies.org/data-center/).
 
 ### Code
-We have reproduced and modified the user prompts described in [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144). The code has been modified and augmented based on the code used by [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144).
+We have reproduced and modified the user/system prompts described in [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144). The code has been modified and augmented based on the code used by [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144).
 
 `common.py` is a script for using the OpenAI API. Insert your own OpenAI API key and select the desired model as the `engine` argument. In [Sun et al. (2024)](https://arxiv.org/pdf/2402.18144), `gpt-3.5-turbo-0613` was adopted.	
 
